@@ -1,1 +1,1 @@
-# cgv-mini-project
+# cg Assignment
